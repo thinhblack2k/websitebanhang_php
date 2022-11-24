@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("localhost:3307","root","","btl_cnpm");
+$mysqli = new mysqli("localhost:3307","root","","dbleather");
 
 // Check connection
 if ($mysqli->connect_errno) {
