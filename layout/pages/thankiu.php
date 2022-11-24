@@ -1,0 +1,1 @@
+Cảm ơn bạn đã mua hàng chúng tối sẽ sớm liên hệ lại với bạn trong thời gian sớm nhất
